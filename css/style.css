@@ -45,3 +45,18 @@ footer
    text-align: center;
    font-family: 'Indie Flower', cursive;
 }
+
+button
+{
+   background-color: #393E46;
+   color: #4ECCA3;
+   font-family: 'Indie Flower', cursive;
+   font-size: 2rem;
+   border: 1px solid black;
+   padding: 10px;
+}
+
+button:hover
+{
+   text-decoration: underline;
+}
